@@ -14,3 +14,6 @@ documentação 		// git-scm.com/docs/git-checkout
 git add 			// adicionar na fila para ser commited
 git restore			// restaura arquivo para o ultimo commit
 git commit -m "msg"	// commitar com comentario de commit
+
+git push 			// envia arquivos alterados para gitHub
+git pull			// recebe arquivos disponiveis no gitHub
