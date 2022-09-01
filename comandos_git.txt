@@ -1,0 +1,16 @@
+ls     // mostra conteudo da pasta
+cd	 // entrar em pastas apresentadas ls
+.   	 // seleciona todos arquivos (all)
+
+
+git clone {link} 		 // copia arquivos de um diretorio gitHub
+git status        	// apresenta arquivos modificados ou comitados
+
+
+git checkout -b {name} 	// cria diretorio branch
+git checkout {name}	// altera diretorio branch/main
+documentação 		// git-scm.com/docs/git-checkout
+
+git add 			// adicionar na fila para ser commited
+git restore			// restaura arquivo para o ultimo commit
+git commit -m "msg"	// commitar com comentario de commit
