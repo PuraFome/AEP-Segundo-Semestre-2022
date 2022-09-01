@@ -2,7 +2,7 @@ ls     // mostra conteudo da pasta
 cd	 // entrar em pastas apresentadas ls
 .   	 // seleciona todos arquivos (all)
 :wq	 // w = (salva escita) q = (quit)
-
+teste
 
 git clone {link} 		 // copia arquivos de um diretorio gitHub
 git status        	// apresenta arquivos modificados ou comitados
