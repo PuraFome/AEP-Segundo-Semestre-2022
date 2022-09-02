@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T22:56:14.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="fD3e6BO-4p8FPsj0eXJw" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T22:56:35.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="ku0RH38_XTjEgPwz06XM" version="20.2.8" type="github">
   <diagram id="33-x3izG2sY_xsUPlSyk" name="Página-1">
     <mxGraphModel dx="1466" dy="871" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#283618" math="0" shadow="0">
       <root>
@@ -14,12 +14,7 @@
           <mxGeometry x="-86.5" y="-65" width="184" height="47" as="geometry" />
         </mxCell>
         <mxCell id="I8iXI1FxNK-G85cXIj4k-5" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;requisitos de sistema&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#e3c800;strokeColor=#B09500;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=0;pointerEvents=1;hachureGap=4;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="576" y="-94.25" width="171" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="I8iXI1FxNK-G85cXIj4k-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=181;exitDy=10;exitPerimeter=0;strokeColor=#B09500;fontColor=#FEFAE0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#e3c800;labelBackgroundColor=#283618;" edge="1" parent="1" source="I8iXI1FxNK-G85cXIj4k-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="385" y="15.692307692307736" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="579" y="-94.25" width="171" height="64" as="geometry" />
         </mxCell>
         <mxCell id="I8iXI1FxNK-G85cXIj4k-6" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;requisitos de susuários&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#e3c800;strokeColor=#B09500;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="374" y="-95" width="191" height="65.5" as="geometry" />
