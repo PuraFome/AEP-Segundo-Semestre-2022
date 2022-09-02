@@ -1,35 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T22:56:52.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="q7Pn3jlikk-5tjWmz0fb" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T23:27:35.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="JVYFvNtggMX7r738N1ZM" version="20.2.8" type="github">
   <diagram id="33-x3izG2sY_xsUPlSyk" name="Página-1">
-    <mxGraphModel dx="1466" dy="871" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#283618" math="0" shadow="0">
+    <mxGraphModel dx="1967" dy="1093" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#283618" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="I8iXI1FxNK-G85cXIj4k-1" value="&lt;b&gt;REQUISITOS FUNCIONAIS&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#FEFAE0;darkOpacity=0.05;fillColor=#BC6C25;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="-121" y="-143" width="233" height="73" as="geometry" />
+          <mxGeometry x="60" y="-225" width="233" height="73" as="geometry" />
         </mxCell>
         <mxCell id="I8iXI1FxNK-G85cXIj4k-3" value="APP DEVE PERMITIR inserir fotos do que deve ser reparado&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#FEFAE0;darkOpacity=0.05;fillColor=#BC6C25;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="-196" y="-12.75" width="225" height="41" as="geometry" />
+          <mxGeometry x="-166" y="88" width="188" height="62" as="geometry" />
         </mxCell>
         <mxCell id="I8iXI1FxNK-G85cXIj4k-4" value="ABERTURA DE REPARO&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#FEFAE0;darkOpacity=0.05;fillColor=#BC6C25;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="-86.5" y="-65" width="184" height="47" as="geometry" />
+          <mxGeometry x="-160.5" y="-37" width="184" height="47" as="geometry" />
         </mxCell>
         <mxCell id="I8iXI1FxNK-G85cXIj4k-5" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;requisitos de sistema&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#e3c800;strokeColor=#B09500;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=0;pointerEvents=1;hachureGap=4;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="579" y="-94.25" width="171" height="64" as="geometry" />
+          <mxGeometry x="768" y="-130" width="171" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="I8iXI1FxNK-G85cXIj4k-6" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;requisitos de susuários&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#e3c800;strokeColor=#B09500;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="374" y="-95" width="191" height="65.5" as="geometry" />
+        <mxCell id="I8iXI1FxNK-G85cXIj4k-6" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;requisitos de susuários&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;fontStyle=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="587" y="-106.88000000000001" width="144" height="62.75" as="geometry" />
         </mxCell>
         <mxCell id="I8iXI1FxNK-G85cXIj4k-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#B09500;fontColor=#FEFAE0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fillColor=#e3c800;labelBackgroundColor=#283618;" edge="1" parent="1" source="I8iXI1FxNK-G85cXIj4k-5" target="I8iXI1FxNK-G85cXIj4k-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I8iXI1FxNK-G85cXIj4k-10" value="inserir local de reparo" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#FEFAE0;darkOpacity=0.05;fillColor=#BC6C25;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="-162" y="34" width="207" height="31" as="geometry" />
+          <mxGeometry x="-142" y="162" width="164" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I8iXI1FxNK-G85cXIj4k-11" value="inserir local de reparo" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BC6C25;strokeColor=#DDA15E;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;fontColor=#FEFAE0;" vertex="1" parent="1">
-          <mxGeometry x="-153" y="78" width="179" height="42" as="geometry" />
+        <mxCell id="I8iXI1FxNK-G85cXIj4k-11" value="envia a solicitação de serviço para o órgão competente" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BC6C25;strokeColor=#DDA15E;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="-157" y="208" width="179" height="42" as="geometry" />
         </mxCell>
         <mxCell id="I8iXI1FxNK-G85cXIj4k-13" value="&lt;b&gt;REQUISITOS NÃO FUNCIONAIS&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#e3c800;strokeColor=#B09500;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="474" y="-160" width="157" height="47" as="geometry" />
+          <mxGeometry x="646" y="-234" width="327.36" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="I8iXI1FxNK-G85cXIj4k-16" value="O APP DEVE disponibilizarr um formulário para descrever o problema" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#FEFAE0;darkOpacity=0.05;fillColor=#BC6C25;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="-142" y="18" width="165.5" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="I8iXI1FxNK-G85cXIj4k-18" value="&lt;b&gt;REQUISITOS DO ATOR&amp;nbsp; CIDADÃO&amp;nbsp;&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#FEFAE0;darkOpacity=0.05;fillColor=#BC6C25;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="-160.5" y="-99" width="184" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="I8iXI1FxNK-G85cXIj4k-19" value="&lt;b&gt;REQUISITOS DO ATOR&amp;nbsp; MUNICIPIO&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#f0a30a;strokeColor=#BD7000;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="52" y="-102" width="184" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="I8iXI1FxNK-G85cXIj4k-21" value="&lt;b&gt;RECEBE A SOLICITAÇÃO DE REPARO&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#f0a30a;strokeColor=#BD7000;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="52" y="-46.25" width="186" height="50.25" as="geometry" />
+        </mxCell>
+        <mxCell id="I8iXI1FxNK-G85cXIj4k-22" value="&lt;b&gt;FILTRAR AS SOLICITAÇÕES E ORGANIZAR CONFORME PRIORIDADE ESTABELECIDA PELO MUNICÍPIO&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#f0a30a;strokeColor=#BD7000;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="54" y="15" width="188" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="I8iXI1FxNK-G85cXIj4k-23" value="&lt;b&gt;ABERTURA DE SERVIÇO&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#f0a30a;strokeColor=#BD7000;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="56" y="117" width="188" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="I8iXI1FxNK-G85cXIj4k-24" value="&lt;b&gt;FECHAMENTO DE SERVIÇO&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#f0a30a;strokeColor=#BD7000;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="60" y="169" width="188" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="I8iXI1FxNK-G85cXIj4k-25" value="REQUISITOS DO ATOR&lt;br&gt;&amp;nbsp;EQUIPE DE MANUTENÇÃO" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#ffffff;darkOpacity=0.05;fillColor=#76608a;strokeColor=#432D57;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="274" y="-102" width="210" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="I8iXI1FxNK-G85cXIj4k-26" value="RECEBE AS ORDENS DE SERVIÇOS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#ffffff;darkOpacity=0.05;fillColor=#76608a;strokeColor=#432D57;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="274" y="-59" width="209" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="I8iXI1FxNK-G85cXIj4k-27" value="FECHAMENTO DE REPARO&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#ffffff;darkOpacity=0.05;fillColor=#76608a;strokeColor=#432D57;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="277.25" y="-24" width="209" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="I8iXI1FxNK-G85cXIj4k-31" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;requisitos de susuários&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;hachureGap=4;fontStyle=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="593" y="-28.5" width="172" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
