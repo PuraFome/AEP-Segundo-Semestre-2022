@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T23:42:44.899Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="F2EdLFbrWsUNluAV1U8u" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-07T23:43:13.500Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="NDTebshep-lGjlOtMrfO" version="20.2.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1606" dy="1483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -137,6 +137,18 @@
         </mxCell>
         <mxCell id="v3rb6W1eC0JRBhHd2svC-55" value="" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-30" y="-90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v3rb6W1eC0JRBhHd2svC-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v3rb6W1eC0JRBhHd2svC-58" target="v3rb6W1eC0JRBhHd2svC-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v3rb6W1eC0JRBhHd2svC-58" value="AgenteMunicipal" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="690" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v3rb6W1eC0JRBhHd2svC-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v3rb6W1eC0JRBhHd2svC-59" target="v3rb6W1eC0JRBhHd2svC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v3rb6W1eC0JRBhHd2svC-59" value="" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="30" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
