@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T23:35:47.450Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Zam1XMHad2iSTzDRgFUg" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-08T00:45:48.977Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5Qw0_rTzyYaQMcy3npWn" version="20.2.8" type="github">
   <diagram id="TVsBRt_6ifpyhdmxl0sS" name="Página-1">
-    <mxGraphModel dx="1123" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="409" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
         <mxCell id="l2oMR_xmYZ3DmNcnoLsg-5" value="Envia uma foto&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="370" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gFXNLu3ka9ls825jubij-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="l2oMR_xmYZ3DmNcnoLsg-7" target="l2oMR_xmYZ3DmNcnoLsg-16">
+        <mxCell id="gFXNLu3ka9ls825jubij-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="1" source="l2oMR_xmYZ3DmNcnoLsg-7" target="l2oMR_xmYZ3DmNcnoLsg-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l2oMR_xmYZ3DmNcnoLsg-7" value="abre uma notificação de problema" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -88,7 +88,7 @@
         <mxCell id="l2oMR_xmYZ3DmNcnoLsg-16" value="recebe as notificação&amp;nbsp;de reparo" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="370" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gFXNLu3ka9ls825jubij-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="l2oMR_xmYZ3DmNcnoLsg-18" target="l2oMR_xmYZ3DmNcnoLsg-24">
+        <mxCell id="gFXNLu3ka9ls825jubij-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" parent="1" source="l2oMR_xmYZ3DmNcnoLsg-18" target="l2oMR_xmYZ3DmNcnoLsg-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l2oMR_xmYZ3DmNcnoLsg-18" value="Abre uma ordem de serviço para o reparo" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
