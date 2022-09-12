@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T01:32:11.154Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5q6d35qhq-syysgEoz1J" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-12T01:33:43.643Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="n-z0bjUUqONs5jpQvvvm" version="20.3.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1224" dy="1324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -191,11 +191,35 @@
         <mxCell id="v3rb6W1eC0JRBhHd2svC-24" value="SolicitacaoReparo_ItensReparo" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="667.5" y="326" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v3rb6W1eC0JRBhHd2svC-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="v3rb6W1eC0JRBhHd2svC-25" target="v3rb6W1eC0JRBhHd2svC-50" edge="1">
+        <mxCell id="v3rb6W1eC0JRBhHd2svC-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v3rb6W1eC0JRBhHd2svC-25" target="v3rb6W1eC0JRBhHd2svC-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nm92PUWUXbGiuzAjKkLi-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v3rb6W1eC0JRBhHd2svC-25" target="nm92PUWUXbGiuzAjKkLi-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1135" y="310" />
+              <mxPoint x="1135" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nm92PUWUXbGiuzAjKkLi-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v3rb6W1eC0JRBhHd2svC-25" target="nm92PUWUXbGiuzAjKkLi-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="300" />
+              <mxPoint x="1160" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nm92PUWUXbGiuzAjKkLi-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v3rb6W1eC0JRBhHd2svC-25" target="nm92PUWUXbGiuzAjKkLi-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1198" y="310" />
+              <mxPoint x="1198" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="v3rb6W1eC0JRBhHd2svC-25" value="ItensReparo" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="937.5" y="406" width="100" height="40" as="geometry" />
+          <mxGeometry x="1110" y="326" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v3rb6W1eC0JRBhHd2svC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v3rb6W1eC0JRBhHd2svC-26" target="v3rb6W1eC0JRBhHd2svC-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -419,6 +443,15 @@
         </mxCell>
         <mxCell id="nm92PUWUXbGiuzAjKkLi-57" value="idItensReparo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="747.5" y="276" width="102.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nm92PUWUXbGiuzAjKkLi-60" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="236" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nm92PUWUXbGiuzAjKkLi-61" value="descricao" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="256" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nm92PUWUXbGiuzAjKkLi-64" value="preço" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="276" width="55" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
